@@ -1,0 +1,10 @@
+# 개행문자
+#include <stdio.h>
+
+int main()
+{
+    printf("한국대학교\n");
+    printf("신입생");
+
+    return 0;
+}
